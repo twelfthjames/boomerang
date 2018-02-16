@@ -1,2 +1,3 @@
-# Boomerang by Twelfth & James
+# Boomerang
+## By Twelfth & James
 System Status & Uptime Tracker
